@@ -24,10 +24,10 @@ const Contact: React.FC = () => {
               Ready to join our mission or have questions? Send us an email and we'll get back to you soon.
             </p>
             <a 
-              href="mailto:hello@sourcefoods.org"
+              href="mailto:sgsourcefoods@gmail.com"
               className="inline-flex items-center bg-green-600 text-white px-8 py-4 rounded-lg font-semibold hover:bg-green-700 transition-all duration-200 transform hover:scale-105 text-lg gap-3"
             >
-              hello@sourcefoods.org
+              sgsourcefoods@gmail.com
               <ArrowRight size={24} />
             </a>
             <p className="text-gray-500 mt-4"></p>
